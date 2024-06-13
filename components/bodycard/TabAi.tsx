@@ -116,7 +116,7 @@ const TabAi: React.FC = () => {
 
                   "
                   tabCategory="team"
-                  contentImage="https://d1.awsstatic.com/CuviSoft-q-business.00a46f08d417e339a6a84cc4facc06c12f4f4490.png"
+                  contentImage="https://d1.awsstatic.com/amazon-q-business.00a46f08d417e339a6a84cc4facc06c12f4f4490.png"
                   open={open}
                 />
                 <TabContent
