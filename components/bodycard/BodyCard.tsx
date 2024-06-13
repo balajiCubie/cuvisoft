@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Card: React.FC<{ title: string, description: string }> = ({ title, description }) => (
-  <div className="bg-gray-100 p-4 rounded-xl shadow-xl">
+  <div className="bg-gray-50 p-4 rounded-xl shadow-xl">
     <h3 className="text-lg font-semibold mb-2">{title}</h3>
     <p className="text-sm text-gray-600">{description}</p>
   </div>

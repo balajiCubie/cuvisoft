@@ -6,7 +6,7 @@ import SecondaryNavbar from './secondaryNavbar/SecondaryNavbar';
 
 const Navbar: FC = () => {
   return (
-    <nav className="bg-amazon_blue p-4 shadow-xl">
+    <nav className="bg-amazon_blue p-4 shadow-xl sticky top-0 z-10">
       <div className=" mx-auto flex justify-between items-center">
         {/* Left Links */}
         <LeftNavbar/>
