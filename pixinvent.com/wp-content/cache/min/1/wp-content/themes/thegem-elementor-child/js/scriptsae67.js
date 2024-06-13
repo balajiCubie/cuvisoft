@@ -1,1 +1,0 @@
-(function($){var $grid=$('.reviews-grid').isotope({itemSelector:'.review-item',layoutMode:'masonry'})})(jQuery)
