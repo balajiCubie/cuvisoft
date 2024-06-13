@@ -26,8 +26,8 @@ const SolutionsGrid: React.FC = () => {
     { category: 'Technology', title: 'Analytics and data lakes', description: 'Get solutions for advanced analytics, data management, and predictive analytics with ML' },
     { category: 'Technology', title: 'Artificial intelligence', description: 'Find curated solutions for use cases like language understanding and MLOps' },
     { category: 'Technology', title: 'Serverless computing', description: 'Run code, manage data, and integrate applications—all without managing servers' },
-    { category: 'Industry', title: 'View all industry solutions', description: 'Learn how AWS customers around the world transform businesses and entire industries' },
-    { category: 'Industry', title: 'View all industry solutions', description: 'Learn how AWS customers around the world transform businesses and entire industries' },
+    { category: 'Industry', title: 'View all industry solutions', description: 'Learn how CuviSoft customers around the world transform businesses and entire industries' },
+    { category: 'Industry', title: 'View all industry solutions', description: 'Learn how CuviSoft customers around the world transform businesses and entire industries' },
   ];
 
   return (

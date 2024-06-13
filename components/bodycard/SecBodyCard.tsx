@@ -10,7 +10,7 @@ const SecBodyCard = () => {
                 <div className="max-w-6xl  py-12  sm:px-6 lg:px-8">
                     <div className="bg-white  overflow-hidden">
                         <div className="mt-4 py-8">
-                            <h2 className="text-5xl mb-8 font-extrabold text-gray-950">Generative AI on AWS</h2>
+                            <h2 className="text-5xl mb-8 font-extrabold text-gray-950">Generative AI on CuviSoft</h2>
                             <p className="mt-5  max-w-3xl text-xl text-amazon_blue">
                             Innovate faster with new capabilities. Pick your choice of industry-leading foundation models (FMs), and get the most cost-effective infrastructure.
                             </p>
