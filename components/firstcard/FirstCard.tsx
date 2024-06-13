@@ -7,7 +7,7 @@ const Card: React.FC<{ title: string, description: string }> = ({ title, descrip
   </div>
 );
 
-const FirstCard: React.FC = () => {
+const Firstcard: React.FC = () => {
   const cards = [
     {
         title: 'Save 33% on your CuviSoft Certified Data Engineer - Associate exam',
@@ -37,4 +37,4 @@ const FirstCard: React.FC = () => {
   );
 };
 
-export default FirstCard;
+export default Firstcard;

@@ -1,5 +1,5 @@
 // import Carsole from "@/components/carousel/Carousel";
-import FirstCard from "@/components/firstCard/FirstCard";
+import FirstCard from "@/components/firstcard/Firstcard";
 import Navbar from "@/components/navbar/Navbar";
 
 
