@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('../asset/Helvetica/Helvetica.woff');
+  font-weight: 400;
+  font-style: normal;
+
+  }
+body{
+  font-family: 'Helvetica', sans-serif;
+  /* font size */
+  
+}

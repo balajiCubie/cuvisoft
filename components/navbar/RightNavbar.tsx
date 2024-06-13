@@ -1,8 +1,8 @@
 const RightNavbar = () => {
     return ( <div>
-        <div className="flex items-center space-x-4">
-          <a href="#" className="text-gray-300 hover:text-blue-600 pr-2">About CuviSoft</a>
-          <a href="#" className="text-gray-300 hover:text-blue-600 pr-2">Contact Us</a>
+        <div className="flex items-center space-x-4 text-sm">
+          <a href="#" className="text-gray-300  hover:text-blue-600 pr-2">About CuviSoft</a>
+          <a href="#" className="text-gray-300  hover:text-blue-600 pr-2">Contact Us</a>
           <a href="#" className="text-gray-300 hover:text-blue-600 pr-2">Support</a>
           <a href="#" className="text-gray-300 hover:text-blue-600 pr-2">My Account</a>
           <a href="#" className="text-gray-300 hover:text-blue-600 pr-2">Sign In</a>

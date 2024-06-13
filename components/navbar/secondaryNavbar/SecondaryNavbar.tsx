@@ -1,7 +1,7 @@
 import { FaSearch } from "react-icons/fa";
 const SecondaryNavbar = () => {
     return (
-    <div className="items-center space-x-4 hidden sm:flex mt-2 text-center">
+    <div className="items-center space-x-4 hidden sm:flex mt-2  text-lxs text-center ">
          <a href="#" className="text-gray-300 hover:text-blue-600 ml-8 pr-4">Products</a>
           <a href="#" className="text-gray-300 hover:text-blue-600 pr-2">Solutions</a>
           <a href="#" className="text-gray-300 hover:text-blue-600 pr-2">Pricing</a>
