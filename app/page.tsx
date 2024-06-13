@@ -1,5 +1,5 @@
 // import Carsole from "@/components/carousel/Carousel";
-import FirstCard from "@/components/firstcard/Firstcard";
+import BodyCard from "@/components/bodycard/BodyCard";
 import Navbar from "@/components/navbar/Navbar";
 
 
@@ -9,7 +9,7 @@ export default function Home() {
    <div>
     <Navbar/>
      {/* <Carsole/> */}
-     <FirstCard/>
+     <BodyCard/>
    </div>
   );
 }
