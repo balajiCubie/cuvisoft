@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/youtube/:path*",
-        "destination": "https://cuvisoftyoutube.vercel.app/:path*"
+        "destination": "https://google.com/:path*"
       }
     ]
   }
