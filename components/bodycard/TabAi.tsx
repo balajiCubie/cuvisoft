@@ -21,11 +21,11 @@ const TabContent: React.FC<TabContentProps> = ({ open, tabCategory, details, con
           open === tabCategory ? "block" : "hidden"
         }`}
       >
-        <div className=" flex">
-        <div>
+        <div className=" flex ">
+        <div className="">
         {details}
         </div>
-        <div className="absolute float-right right-0  mt-1 mr-60">
+        <div className="absolute float-right right-1  mt-1 pr-40">
 
         <Image src={contentImage} className=" rounded-3xl " alt="alt" width={500} height={100} />
         </div>

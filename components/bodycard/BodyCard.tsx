@@ -29,7 +29,7 @@ const BodyCard: React.FC = () => {
   ];
 
   return (
-    <div className="flex space-x-4 p-4 container ">
+    <div className="flex space-x-4 p-4 m-5 ">
       {cards.map((card, index) => (
         <Card key={index} title={card.title} description={card.description} />
       ))}
