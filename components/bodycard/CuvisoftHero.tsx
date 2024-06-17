@@ -10,8 +10,8 @@ const CuvisoftHero: React.FC = () => {
       </h1>
       <p className="mt-4 text-gray-600">Your command center for innovative container development</p>
       <div className="mt-8 flex space-x-4 rounded-full">
-        <button className="bg-amazon_blue text-white py-2  px-4 rounded-full hover:bg-blue-700">Get Started</button>
-        <button className="bg-amazon_blue text-white py-2 px-4 rounded-full hover:bg-blue-700">Download for Windows</button>
+        <button className="bg-amazon_blue text-white py-2  px-4 rounded-full hover:bg-blue-700 hover:text-amazon_blue">Get Started</button>
+        <button className="bg-amazon_blue text-white py-2 px-4 rounded-full hover:bg-blue-700 hover:text-amazon_blue">Download for Windows</button>
       </div>
       <div className="mt-8 p-4 bg-gray-100 rounded">
         <p className="text-sm text-gray-700">
