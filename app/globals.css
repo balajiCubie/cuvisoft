@@ -12,6 +12,11 @@
 body{
   font-family: 'Helvetica', sans-serif;
   /* font size */
-  
 
+
+}
+.text-gradient {
+  background: linear-gradient(to right, #1a165c, #0d5ad4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
