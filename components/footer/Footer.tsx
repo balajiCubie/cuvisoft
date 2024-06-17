@@ -39,11 +39,11 @@ const Footer: React.FC = () => {
             <ul>
               <li className="mb-2"><a href="#" className="hover:underline">Developer Center</a></li>
               <li className="mb-2"><a href="#" className="hover:underline">SDKs & Tools</a></li>
-              <li className="mb-2"><a href="#" className="hover:underline">.NET on AWS</a></li>
-              <li className="mb-2"><a href="#" className="hover:underline">Python on AWS</a></li>
-              <li className="mb-2"><a href="#" className="hover:underline">Java on AWS</a></li>
-              <li className="mb-2"><a href="#" className="hover:underline">PHP on AWS</a></li>
-              <li className="mb-2"><a href="#" className="hover:underline">JavaScript on AWS</a></li>
+              <li className="mb-2"><a href="#" className="hover:underline">.NET on Cuvisoft</a></li>
+              <li className="mb-2"><a href="#" className="hover:underline">Python on Cuvisoft</a></li>
+              <li className="mb-2"><a href="#" className="hover:underline">Java on Cuvisoft</a></li>
+              <li className="mb-2"><a href="#" className="hover:underline">PHP on Cuvisoft</a></li>
+              <li className="mb-2"><a href="#" className="hover:underline">JavaScript on Cuvisoft</a></li>
             </ul>
           </div>
           <div>
