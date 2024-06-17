@@ -10,7 +10,7 @@ const CuvisoftHero: React.FC = () => {
       privacy-focused software suite,<br/> designed for businesses of all sizes.
       </h1>
 
-      <p className="mt-10 mb-5 text-gray-600 ">All-in-one suite <br />Run your entire business on Cuvisoft with our unified cloud software, <br />designed to help you break down silos between departments and increase organizational efficiency.</p>
+      <p className="mt-10 mb-5 text-gray-600 font-semibold text-xl leading-8 tracking-wide">All-in-one suite <br />Run your entire business on Cuvisoft with our unified cloud software, <br />designed to help you break down silos between departments and increase organizational efficiency.</p>
 
       <div className="mt-8 flex space-x-4 rounded-full">
       <button className="text-blue-500 py-5 px-8  rounded-full p-2  bg-gray-100 shadow-lg  ">Get Started</button>
