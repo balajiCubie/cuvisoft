@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    height: 100vh;
+  }
+
+  .container {
+    font-family: sans-serif;
+    color: #3c3c3c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    flex-direction: column;
+  }
+
+  @keyframes textShine {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+
+  h1 {
+    font-size: clamp(2.8rem, 1.5vw, 3rem);
+
+    background: linear-gradient(
+      90deg,
+      #566ce4 20%,
+      #00affa 30%,
+      #0190cd 70%,
+      #3033e7 80%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    background-size: 500% auto;
+    animation: textShine 10s ease-in-out infinite alternate;
+  }
