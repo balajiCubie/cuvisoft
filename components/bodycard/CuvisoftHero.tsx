@@ -13,9 +13,9 @@ const CuvisoftHero: React.FC = () => {
         <button className="bg-amazon_blue text-white py-2  px-4 rounded-full hover:bg-blue-700 hover:text-amazon_blue">Get Started</button>
         <button className="bg-amazon_blue text-white py-2 px-4 rounded-full hover:bg-blue-700 hover:text-amazon_blue"> Explore More</button>
       </div>
-      <div className="mt-8 p-4 bg-gray-100 rounded">
+      <div className="mt-8 p-4 bg-gray-100 rounded-full">
         <p className="text-sm text-gray-700">
-          <span className="font-semibold text-blue-700">Commercial use of Cuvisoft operating system for business</span> at a company of more than <span className="font-semibold">250 employees</span> OR more than <span className="font-semibold">$10 million</span> in annual revenue requires a paid subscription (Pro, Team, or Business).
+          <span className="font-semibold  text-blue-700">Commercial use of Cuvisoft operating system for business</span> at a company of more than <span className="font-semibold">250 employees</span> OR more than <span className="font-semibold">$10 million</span> in annual revenue requires a paid subscription (Pro, Team, or Business).
         </p>
       </div>
     </div>
